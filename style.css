@@ -1,0 +1,33 @@
+.banner{
+    background-image: url("https://img.freepik.com/free-photo/coworkers-office-working-together_23-2148352532.jpg?t=st=1723098909~exp=1723102509~hmac=587d90531a59b4c7aa39f25aeb2f09969ca5c5f553b31aa15c0ae7687f1fc3f9&w=900");
+    background-size: cover;
+    height: 100vh;
+    width: 70%;
+   padding: 10px;
+}
+.banner h1{
+    position: relative;
+    font-family: Raleway;
+    font-weight: 700;
+    font-size: 46px;
+    top: 100px;
+    left: 264px;
+}
+.banner p{
+    position: relative;
+    top: 104px;
+    left: 266px;
+}
+.banner button{
+    position: relative;
+    top: 158px;
+    left: 578px;
+    color: white;
+    background-color: orange;
+    width: 150px;
+}
+.services {
+    background-color: bisque;
+    width: 100vw;
+    height: 500px;   
+}
