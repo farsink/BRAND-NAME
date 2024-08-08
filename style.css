@@ -34,7 +34,7 @@
 .services {
     background-color: bisque;
     width: 100vw;
-    height: 500px;   
+    height: 550px;   
 }
 .services h5{
     font-family:Nunito Sans;
@@ -50,7 +50,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: auto;
 }
 .info h6{
     font-family: nunito sans;
